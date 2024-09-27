@@ -1,0 +1,9 @@
+fastapi==0.112.0
+uvicorn
+pydantic
+pymongo
+passlib
+bson
+email-validator
+python-dotenv
+a2wsgi
